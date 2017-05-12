@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import JJMediator
 
 // Module名称
 let swiftModuleName = "SwiftExtension"

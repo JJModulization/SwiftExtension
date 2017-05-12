@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
   s.module_name  = 'SwiftExtension'
-  s.dependency "JJMediator", "~> 0.0.3"
+  #s.dependency "JJMediator", "~> 0.0.3"
 
 end
