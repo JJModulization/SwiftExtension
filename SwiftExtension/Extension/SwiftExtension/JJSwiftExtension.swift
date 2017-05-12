@@ -10,7 +10,7 @@ import Foundation
 import JJMediator
 
 // Module名称
-let swiftModuleName = "SwiftExtension"
+let swiftModuleName = "SwiftModule"
 // Target名称
 let swiftTargetName = "Swift";
 // Action名称
